@@ -4,11 +4,11 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=/project4
+dockerpath=asfora/cloud_devops
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl run project4 --image=asfora/cloud_devops:project4
+kubectl run project4 --image=$dockerpath:project4
 
 # Step 3:
 # List kubernetes pods

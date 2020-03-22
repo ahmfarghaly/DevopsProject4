@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<CloudDevops Project4>](https://circleci.com/gh/asfora/DevopsProject4.svg?style=svg)](https://circleci.com/gh/asfora/DevopsProject4)
 
 ## Project Overview
 
